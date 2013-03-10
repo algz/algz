@@ -22,7 +22,7 @@ public class SQLiteDaoImpl implements SQLiteDao {
         System.out.println("DAO:"+objs[0]);
         s.createSQLQuery("insert into person (id,name) values ('3','name211')").executeUpdate();
 //        s.getTransaction().rollback();
-//        s.getTransaction().commit();
+        s.getTransaction().commit();
         return "";
 	}
 }
