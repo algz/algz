@@ -3,11 +3,11 @@
   type="WEB"
   name="algz-springmvc"
   id="myeclipse.1362900959078"
-  context-root="/algz-springmvc"
+  context-root="/algz"
   j2ee-spec="5.0"
   archive="algz-springmvc.war">
   <attributes>
-    <attribute name="webrootdir" value="WebRoot" />
+    <attribute name="webrootdir" value="/WebRoot" />
   </attributes>
 </project-module>
 
