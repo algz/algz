@@ -4,10 +4,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate4.1"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-depend"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-security3.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring3.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/sqlite-jdbc"/>
-	<classpathentry kind="lib" path="C:/Users/algz/Downloads/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-depend"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
